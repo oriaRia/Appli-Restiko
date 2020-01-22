@@ -1,0 +1,29 @@
+
+body{
+    max-width: 770px;
+}
+
+.row{
+    flex-wrap: unset;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.ir-arriba {
+    display: none;
+    padding: 15px;
+    background: #5d7388;
+    font-size: 1rem;
+    color: #f3f7f8;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20%;
+    right: 20%;
+    border-radius: 20%;
+}
+.etoile{
+    width: 130px;
+
+}
